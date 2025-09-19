@@ -1,1 +1,1 @@
-# holbertonschool-network
+# holbertonschool-network basics
