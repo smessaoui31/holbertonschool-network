@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# That's a script to list all TCP and UDP ports currently in use on the system
+
+netstat -lpn
